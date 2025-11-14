@@ -5,7 +5,7 @@
            xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0"
            xsi:type="MailApp">
   
-  <Id>12345678-1234-1234-1234-123456789012</Id>
+  <Id>2fadc0d4-f0b8-4a76-84e9-ad73de7fe3b0</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>Drycake CRM</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
