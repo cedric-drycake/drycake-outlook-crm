@@ -13,7 +13,7 @@ Office.onReady((info) => {
     if (info.host === Office.HostType.Outlook) {
         // Initialize SharePoint client
         // IMPORTANT: Replace with your actual SharePoint site URL
-        spClient = new SharePointClient('https://yourtenant.sharepoint.com/sites/yoursite');
+        spClient = new SharePointClient('https://drycakesbc.sharepoint.com/sites/drycakestreak');
         
         // Load current email info
         loadEmailInfo();
