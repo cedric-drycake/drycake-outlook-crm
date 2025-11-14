@@ -3,7 +3,7 @@
 
 class SharePointClient {
     constructor(siteUrl) {
-        this.siteUrl = siteUrl || window.location.origin; // Your SharePoint site URL
+        this.siteUrl = https://drycakesbc.sharepoint.com/:u:/s/drycakestreak/Ee_yYI_Zei5CnPI9vLBXkbEB9OpopzmPV2026nByuBgjSA?e=fnKk5Z || window.location.origin; // Your SharePoint site URL
         this.baseUrl = `${this.siteUrl}/_api/web/lists`;
         
         // List names in SharePoint
